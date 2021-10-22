@@ -1,0 +1,166 @@
+2021-10-20T21:29:10.475Z : [log-api] : info : Server started at Port:undefined
+2021-10-20T21:30:12.465Z : [log-api] : info : Server started at Port:3000
+2021-10-20T21:33:14.969Z : [log-api] : info : Server started at Port:3000
+2021-10-20T21:33:24.325Z : [log-api] : info : Server started at Port:3000
+2021-10-20T21:59:56.868Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:00:22.877Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:38:18.423Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:39:05.656Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:39:35.318Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:40:33.056Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:41:35.907Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:41:54.249Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:42:14.567Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:44:19.692Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:44:20.199Z : [log-api] : error : middleware - ValidationError: "name" is required. "email" is required. "username" is not allowed 
+2021-10-20T22:44:32.791Z : [log-api] : error : middleware - ValidationError: "email" is required 
+2021-10-20T22:45:35.108Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:45:45.638Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:46:04.219Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:47:20.841Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:48:04.558Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:48:30.079Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:48:53.386Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:48:57.528Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:49:23.983Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:49:29.343Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:49:46.906Z : [log-api] : info : Server started at Port:3000
+2021-10-20T22:49:48.313Z : [log-api] : error : middleware - ValidationError: "email" is required 
+2021-10-20T22:49:49.907Z : [log-api] : error : middleware - ValidationError: "email" is required 
+2021-10-20T22:55:15.720Z : [log-api] : error : middleware - ValidationError: "name" is required. "email" is required 
+2021-10-21T02:14:12.903Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:14:23.875Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:17:20.414Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:18:37.980Z : [log-api] : error : middleware - TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator)) 
+2021-10-21T02:19:28.519Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:19:31.483Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:19:58.833Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:21:40.774Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:21:50.291Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:24:02.035Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:24:33.986Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:28:25.570Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:28:28.271Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:28:49.308Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:29:02.823Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:29:06.680Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:29:09.352Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:29:25.750Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:30:37.449Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:30:39.156Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:30:40.408Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:36:47.847Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:36:51.552Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:37:49.055Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:40:06.400Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:40:20.504Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:40:50.185Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:41:02.407Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:46:08.126Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:46:10.645Z : [log-api] : error : middleware - ReferenceError: i is not defined 
+2021-10-21T02:46:26.393Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:51:09.150Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:51:18.295Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:51:59.980Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:52:07.237Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:52:31.206Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:52:37.446Z : [log-api] : error : middleware - Error: invalid 
+2021-10-21T02:52:46.325Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:53:42.191Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:53:51.406Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:56:20.271Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:58:05.797Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:58:09.860Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:58:13.749Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:59:24.612Z : [log-api] : info : Server started at Port:3000
+2021-10-21T02:59:40.239Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:00:13.493Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:00:25.115Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:01:54.133Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:02:24.764Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:02:33.541Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:02:57.904Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:03:16.322Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:03:34.621Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:03:43.534Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:03:55.845Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:04:25.292Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:04:32.560Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:05:14.815Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:06:34.953Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:15:00.100Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:15:45.074Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:16:15.985Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:16:30.486Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:17:22.739Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:17:36.925Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:18:22.769Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:18:28.615Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:20:18.086Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:20:27.884Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:20:43.332Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:20:53.920Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:21:51.349Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:21:59.779Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:22:43.559Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:32:37.646Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:32:40.349Z : [log-api] : error : middleware - SyntaxError: Invalid regular expression: /^(?=.*[@!#$%^&*()/\])/: Unterminated character class 
+2021-10-21T03:33:01.410Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:33:03.646Z : [log-api] : error : middleware - SyntaxError: Invalid regular expression: /^(?=.*[@!#$%^&*()/\])/: Unterminated character class 
+2021-10-21T03:34:01.601Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:34:09.612Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:34:25.231Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:35:17.615Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:35:30.092Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:35:37.732Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:35:44.515Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:35:59.544Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:38:46.248Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:38:55.123Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:40:50.858Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:40:54.665Z : [log-api] : error : middleware - TypeError: item.test is not a function 
+2021-10-21T03:40:58.337Z : [log-api] : error : middleware - TypeError: item.test is not a function 
+2021-10-21T03:41:11.201Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:41:12.955Z : [log-api] : error : middleware - TypeError: RegExp.test is not a function 
+2021-10-21T03:41:18.356Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:41:44.807Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:42:07.281Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:42:13.573Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:42:30.008Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:44:17.641Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:44:47.050Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:45:01.809Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:45:47.961Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:46:38.564Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:47:27.694Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:47:29.358Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:49:26.163Z : [log-api] : info : Server started at Port:3000
+2021-10-21T03:52:01.130Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:01:52.092Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:03:06.485Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:07:41.985Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:13:43.062Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:13:47.331Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:13:49.702Z : [log-api] : error : middleware - TypeError: Cannot read property '@' of undefined 
+2021-10-21T04:14:59.729Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:15:18.754Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:15:19.553Z : [log-api] : error : middleware - TypeError: Cannot read property 'undefined' of undefined 
+2021-10-21T04:16:44.095Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:16:52.180Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:16:54.175Z : [log-api] : error : middleware - TypeError: Cannot read property 'undefined' of undefined 
+2021-10-21T04:16:57.834Z : [log-api] : error : middleware - TypeError: Cannot read property 'undefined' of undefined 
+2021-10-21T04:18:21.500Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:18:34.923Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:19:46.356Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:35:47.488Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:37:32.868Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:37:37.781Z : [log-api] : error : middleware - TypeError: Cannot set property 'invalid' of undefined 
+2021-10-21T04:39:04.698Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:39:33.302Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:40:01.398Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:40:44.329Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:41:05.686Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:42:41.673Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:46:08.907Z : [log-api] : info : Server started at Port:3000
+2021-10-21T04:46:11.694Z : [log-api] : error : middleware - TypeError: Cannot read property '@' of undefined 
+2021-10-21T04:46:24.225Z : [log-api] : error : middleware - TypeError: Cannot read property 'v' of undefined 
