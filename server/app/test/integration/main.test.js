@@ -1,7 +1,7 @@
 import request from "supertest";
 import { app } from "../../api/src/App";
 
-describe("test app e2e",()=>{
+describe("test app integration",()=>{
 
     const body = {
         name:"admin",
